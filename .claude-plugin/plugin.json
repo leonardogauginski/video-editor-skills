@@ -1,0 +1,18 @@
+{
+  "name": "video-editor-skills",
+  "version": "1.0.0",
+  "description": "Teach Claude Code to be a first-pass video editor for talking-head videos, vlogs and classes in DaVinci Resolve Studio: transcript-based cuts, natural vlog pacing, B-roll, music and sound design with Epidemic Sound, clean captions, brand motion graphics (Remotion + Figma) and YouTube export. Skills only: Claude builds the scripts with you.",
+  "keywords": [
+    "video",
+    "editing",
+    "davinci-resolve",
+    "youtube",
+    "vlog",
+    "captions",
+    "remotion",
+    "figma",
+    "epidemic-sound"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "repository": "https://github.com/appariciojunior/video-editor-skills"
+}
