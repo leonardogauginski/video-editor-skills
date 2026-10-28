@@ -1,0 +1,232 @@
+{
+ "comment": "Lista de cortes (EDL) do cozy_youtube_final.mp4. Tempos em segundos no arquivo original. orient: auto = usa a rotacao do arquivo; raw = ignora a rotacao (metadado errado do WhatsApp); vertical = video vertical com fundo desfocado. stab = estabilizar. gain_db = ajuste extra de volume. Uma nova 'cena' comeca com dissolve suave. crop = [x, y, largura] em fracao do quadro (mantem 16:9).",
+ "scenes": [
+  {
+   "name": "Abertura - natureza do sitio",
+   "clips": [
+    {
+     "file": "16.32.50",
+     "in": 0.3,
+     "out": 6.8,
+     "why": "araucarias e ceu azul, plano de abertura"
+    },
+    {
+     "file": "16.32.40",
+     "in": 6.0,
+     "out": 12.3,
+     "why": "margaridas de perto com abelha"
+    },
+    {
+     "file": "16.31.45",
+     "in": 1.5,
+     "out": 5.6,
+     "why": "margaridas na cerca"
+    },
+    {
+     "file": "16.32.43",
+     "in": 3.0,
+     "out": 9.8,
+     "why": "margaridas e subida para casa e eucaliptos"
+    },
+    {
+     "file": "16.32.45",
+     "in": 0.5,
+     "out": 7.5,
+     "why": "Evelyn no meio das margaridas"
+    }
+   ]
+  },
+  {
+   "name": "Manha dentro de casa",
+   "clips": [
+    {
+     "file": "16.32.10",
+     "in": 55.5,
+     "out": 61.5,
+     "why": "avo preparando algo na cozinha, pequenos gestos"
+    },
+    {
+     "file": "16.31.49",
+     "in": 0.5,
+     "out": 8.5,
+     "why": "avo e neto desenhando na mesa"
+    },
+    {
+     "file": "16.32.04",
+     "in": 1.0,
+     "out": 8.0,
+     "orient": "raw",
+     "why": "desenho visto de cima (recorte leve para tirar o cinzeiro do quadro)",
+     "crop": [
+      0.38,
+      0.14,
+      0.62
+     ]
+    },
+    {
+     "file": "16.31.53",
+     "in": 32.0,
+     "out": 39.5,
+     "why": "close do menino desenhando"
+    },
+    {
+     "file": "16.32.00",
+     "in": 87.0,
+     "out": 95.0,
+     "why": "menino comemora o desenho"
+    },
+    {
+     "file": "16.32.21",
+     "in": 3.0,
+     "out": 11.5,
+     "why": "selfie sorrindo"
+    },
+    {
+     "file": "16.32.46",
+     "in": 1.5,
+     "out": 9.5,
+     "orient": "raw",
+     "why": "avos abracados"
+    }
+   ]
+  },
+  {
+   "name": "Brincadeiras la fora",
+   "clips": [
+    {
+     "file": "16.32.26",
+     "in": 2.5,
+     "out": 11.0,
+     "why": "menino e Evelyn sentados ao sol"
+    },
+    {
+     "file": "16.32.28",
+     "in": 0.0,
+     "out": 6.5,
+     "why": "menino correndo no jardim"
+    },
+    {
+     "file": "16.32.28",
+     "in": 9.5,
+     "out": 21.5,
+     "why": "entrega algo e ganha abraco"
+    },
+    {
+     "file": "16.32.26",
+     "in": 26.5,
+     "out": 31.8,
+     "why": "menino correndo no campo"
+    },
+    {
+     "file": "16.33.02",
+     "in": 1.0,
+     "out": 8.0,
+     "orient": "raw",
+     "why": "margaridas vistas de cima, respiro"
+    },
+    {
+     "file": "16.32.58",
+     "in": 93.0,
+     "out": 104.0,
+     "why": "menino de capacete entre as margaridas"
+    }
+   ]
+  },
+  {
+   "name": "Passeio de moto",
+   "clips": [
+    {
+     "file": "16.32.38",
+     "in": 2.0,
+     "out": 10.5,
+     "orient": "raw",
+     "stab": true,
+     "why": "menino de capacete caminhando"
+    },
+    {
+     "file": "16.33.09",
+     "in": 0.0,
+     "out": 8.5,
+     "orient": "vertical",
+     "why": "pai ajusta o capacete (vertical, fundo desfocado)"
+    },
+    {
+     "file": "16.32.38",
+     "in": 78.0,
+     "out": 87.0,
+     "orient": "raw",
+     "why": "menino na moto com o pai"
+    },
+    {
+     "file": "16.32.38",
+     "in": 89.5,
+     "out": 99.0,
+     "orient": "raw",
+     "stab": true,
+     "why": "saem pelo campo"
+    },
+    {
+     "file": "16.33.18",
+     "in": 14.0,
+     "out": 24.0,
+     "why": "moto ligada no gramado"
+    },
+    {
+     "file": "16.33.07",
+     "in": 6.0,
+     "out": 14.5,
+     "why": "menino se aproxima das meninas na moto"
+    },
+    {
+     "file": "16.33.07",
+     "in": 40.0,
+     "out": 48.5,
+     "why": "avo coloca o capacete no menino"
+    },
+    {
+     "file": "16.33.13",
+     "in": 1.5,
+     "out": 12.5,
+     "why": "passeio das meninas com o menino"
+    },
+    {
+     "file": "16.33.18",
+     "in": 40.0,
+     "out": 47.0,
+     "why": "moto se afasta pela estradinha"
+    }
+   ]
+  },
+  {
+   "name": "Fim de tarde",
+   "clips": [
+    {
+     "file": "16.33.23",
+     "in": 19.5,
+     "out": 27.0,
+     "why": "pai ensina a mirar"
+    },
+    {
+     "file": "16.33.28",
+     "in": 7.5,
+     "out": 16.0,
+     "orient": "raw",
+     "why": "cachorro no colo, deitados na grama"
+    },
+    {
+     "file": "16.33.28",
+     "in": 26.5,
+     "out": 31.0,
+     "orient": "raw",
+     "why": "cachorro correndo na grama"
+    },
+    {
+     "file": "16.33.37",
+     "in": 115.0,
+     "out": 121.5,
+     "why": "cachorro olha para a camera, final"
+    }
+   ]
+  }
+ ]
+}
